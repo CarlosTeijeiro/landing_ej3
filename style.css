@@ -159,8 +159,11 @@ section .bienvenida{
     font-size: 20px;
     }
     section .info div{
-        /* width: 100%; */
         font-size: 15px;
+    }
+    section .bienvenida h2{
+        margin-top: 10px;
+        margin-bottom: 10px;
     }
     .nav_label{
         display: block;
